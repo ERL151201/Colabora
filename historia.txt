@@ -1,0 +1,10 @@
+Este es un proyecto para prubea de nuevos comandos de git
+
+se trata de una pagina hecha en boostrap 
+
+Colaboradores 
+
+1.-Emanuel Rangel Luna
+2.-Luis Angel Santos Islas
+3.-Jonathan Perez Ordoñez
+4.-Marco Antonio Trinidad Rodriguez

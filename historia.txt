@@ -2,7 +2,10 @@ Este es un proyecto para prubea de nuevos comandos de git
 
 se trata de una pagina hecha en boostrap 
 
+Editando el index
+
 Colaboradores 
+
 
 1.-Emanuel Rangel Luna
 2.-Luis Angel Santos Islas

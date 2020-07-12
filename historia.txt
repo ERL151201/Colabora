@@ -7,7 +7,7 @@ Editando el index
 Colaboradores 
 
 
-1.-Emanuel Rangel Luna
-2.-Luis Angel Santos Islas
-3.-Jonathan Perez Ordoñez
-4.-Marco Antonio Trinidad Rodriguez
+1.-Emanuel Rangel Luna -> header
+2.-Luis Angel Santos Islas-> footer
+3.-Jonathan Perez Ordoñez-> Contenido
+4.-Marco Antonio Trinidad Rodriguez -> solucionando problemas y ultimos commits

@@ -11,3 +11,4 @@ Colaboradores
 2.-Luis Angel Santos Islas-> footer
 3.-Jonathan Perez Ordoñez-> Contenido
 4.-Marco Antonio Trinidad Rodriguez -> solucionando problemas y ultimos commits
+5.-Francisco Lopez Briones
